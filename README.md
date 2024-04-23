@@ -44,5 +44,5 @@ Projeto de exemplo para implementação de testes para API's Rest utilizando o H
 `gem install bundler`
 
 
-#### Excutar Tests
+#### Executar Tests
 `rake tests`
